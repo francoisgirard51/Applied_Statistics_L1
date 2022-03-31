@@ -9,7 +9,7 @@ x2 = np.random.uniform (0, 100 , 100)
 x3 = np.random.uniform (0, 100 , 1000)
 x4 = np.random.uniform (0, 100 , 10000)
 
-print('Moyenne, éccart-type et intervalle de confiance pour 20, 100, 1000, 10000 tirages:\n')
+print('Mean, standard deviation and confidence interval for 20, 100, 1,000, 10,000 random draws:\n')
 def caracteristic (n):
     x1 = np.random.uniform (0, 100 , n)
 
