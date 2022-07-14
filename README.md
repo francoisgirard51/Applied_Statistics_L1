@@ -1,8 +1,7 @@
-# Applied statistical concepts
-Objectives:
+## I/ Objectives:
 >Exploring and understanding the basic concepts of applied statistics with real data analysis.
 
-## Concepts:
+## II/ Concepts:
 - **mean**
 - **standard deviation**
 - **confidence interval**
