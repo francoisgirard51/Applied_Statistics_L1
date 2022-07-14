@@ -1,3 +1,9 @@
 # Applied statistical concepts
-Concepts of **mean**, **standard deviation**, **confidence interval** and **normal probability distribution** with real data analysis
+Objectives:
+>Exploring and understanding the basic concepts of applied statistics with real data analysis.
 
+## Concepts:
+- **mean**
+- **standard deviation**
+- **confidence interval**
+- **normal probability distribution**
